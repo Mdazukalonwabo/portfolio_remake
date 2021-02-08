@@ -178,7 +178,23 @@ a.projectCardLink, a.projectCardLink:hover{
 }
 
 #contact_info{
-    display: none;
+    /* display: none; */
+}
+
+input, textarea{
+    width: 100%;
+}
+
+input{
+    height: 3rem;
+}
+
+.border-bottom{
+    border-bottom-color: #136F63 !important;
+}
+
+form .btn{
+    color: black;
 }
 
 
@@ -203,6 +219,6 @@ a.projectCardLink, a.projectCardLink:hover{
     }
 
     #contact_info{
-        display: none;
+        /* display: none; */
     }
   }
