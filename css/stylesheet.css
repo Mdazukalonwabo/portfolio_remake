@@ -43,7 +43,7 @@ body{
 .landingContent {
     height: 100vh;
     width: 100vw;
-    background-image: url('/Images/landing_image.jpg');
+    background-image: url("../Images/landing_image.jpg");
     background-position: center;
     background-size: cover;
     background-color: black;
